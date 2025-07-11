@@ -6,11 +6,11 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-C++           22 mins         ███████████▓░░░░░░░░░░░░░   47.04 %
-PowerShell    14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.60 %
-conf          9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
-C             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Rust         1 hr 55 mins    ███████████████████▒░░░░░   77.03 %
+PowerShell   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+conf         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+C++          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
