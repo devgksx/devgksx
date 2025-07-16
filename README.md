@@ -6,11 +6,11 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-C++          3 hrs 15 mins   █████████████░░░░░░░░░░░░   51.71 %
-Rust         2 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   35.06 %
-Python       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-PowerShell   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-conf         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+C++          5 hrs 44 mins   ███████████████▓░░░░░░░░░   62.25 %
+Rust         2 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+Java         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Python       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+conf         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
