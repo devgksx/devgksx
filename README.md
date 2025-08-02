@@ -6,10 +6,7 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    10 mins         ████████████████████▒░░░░   80.97 %
-INI     2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-TOML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Rust   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
