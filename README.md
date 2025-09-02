@@ -6,7 +6,10 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++          1 hr 12 mins    ██████████████████████▓░░   90.39 %
+INI          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
