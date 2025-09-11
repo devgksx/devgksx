@@ -6,9 +6,9 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-C++    25 mins         ██████████████████▒░░░░░░   73.58 %
-INI    6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-Java   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Java   32 mins         ████████████▓░░░░░░░░░░░░   50.27 %
+C++    25 mins         ██████████░░░░░░░░░░░░░░░   39.60 %
+INI    6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
 YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
