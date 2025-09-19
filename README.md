@@ -6,8 +6,8 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Java   4 hrs 42 mins   █████████████████████░░░░   84.15 %
-C++    53 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Java   4 hrs 12 mins   ████████████████████▓░░░░   82.59 %
+C++    53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
 XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
