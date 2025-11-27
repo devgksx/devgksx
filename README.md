@@ -6,10 +6,11 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Java             56 mins         █████████████████████████   99.60 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python           3 hrs 37 mins   ███████████████████▓░░░░░   79.13 %
+Java             56 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
