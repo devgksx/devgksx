@@ -6,8 +6,7 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Java   0 secs          ████████████████████████▒   97.10 %
-JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
