@@ -6,11 +6,11 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                       12 hrs 8 mins   ██████████████████▓░░░░░░   74.80 %
-C#                         3 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-Java                       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JSON                       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Git Config                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Rust                       6 hrs 26 mins   ███████████████▒░░░░░░░░░   61.38 %
+C#                         3 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.34 %
+Java                       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+JSON                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Mixin Json Configuration   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
