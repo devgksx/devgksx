@@ -6,9 +6,7 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 27 mins   ███████████████████████▓░   94.89 %
-AutoHotkey   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
