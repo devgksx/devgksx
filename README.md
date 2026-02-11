@@ -6,7 +6,8 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   7 mins          █████████████████████████   100.00 %
+SSH Config        7 mins          ██████████████████████▓░░   90.05 %
+Java Properties   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 ```
 
 <!--END_SECTION:waka-->
