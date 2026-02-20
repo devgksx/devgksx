@@ -6,10 +6,9 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Java              53 mins               ██████████▒░░░░░░░░░░░░░░   41.50 %
-C++               45 mins               ████████▓░░░░░░░░░░░░░░░░   34.74 %
-Java Properties   17 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-JSON              13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+C++    45 mins               ███████████████░░░░░░░░░░   59.77 %
+Java   17 mins               ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+JSON   12 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
 ```
 
 <!--END_SECTION:waka-->
