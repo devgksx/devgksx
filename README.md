@@ -6,10 +6,7 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          10 mins               ███████████████████░░░░░░   76.62 %
-Bash              2 mins                █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-Python            0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
