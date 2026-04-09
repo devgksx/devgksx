@@ -6,11 +6,11 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   58 mins               ██████████████████████▒░░   89.68 %
-CSS          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-TSConfig     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Other        1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-AutoHotkey   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   58 mins               ██████████████████████▒░░   89.97 %
+CSS          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+TSConfig     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Other        1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
