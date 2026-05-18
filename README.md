@@ -6,7 +6,8 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   2 mins                █████████████████████████   100.00 %
+JSON   18 mins               ██████████████████████▒░░   88.86 %
+HTML   2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
 ```
 
 <!--END_SECTION:waka-->
