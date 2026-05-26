@@ -6,11 +6,11 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 4 hrs 39 mins         ██████████████░░░░░░░░░░░   56.49 %
-Rust                       1 hr 3 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Java                       45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Gradle                     37 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Markdown                   23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+TypeScript                 4 hrs 48 mins         ████████████████▓░░░░░░░░   67.09 %
+Rust                       1 hr 3 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Markdown                   47 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+JSON                       13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+C#                         13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
