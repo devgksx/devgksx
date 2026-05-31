@@ -6,11 +6,11 @@ Most of my projects were abandoned a few days after their making, I get bored fa
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   31 mins               ██████████▒░░░░░░░░░░░░░░   41.28 %
-TypeScript                 26 mins               ████████▓░░░░░░░░░░░░░░░░   35.08 %
-JSON                       12 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-Python                     4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Prisma                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Markdown     24 mins               ██████████▒░░░░░░░░░░░░░░   40.93 %
+TypeScript   23 mins               ██████████░░░░░░░░░░░░░░░   39.46 %
+JSON         11 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+Prisma       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
