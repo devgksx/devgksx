@@ -1,6 +1,7 @@
 Hello, there is nothing particularly noteworthy on my profile at the moment.
 Most of my projects were abandoned a few days after their making, I get bored fast.
 
+This tracks only a little bit of my activity; too lazy to install WakaTime everywhere
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgksx&theme=github_dark)
 
 <!--START_SECTION:waka-->
